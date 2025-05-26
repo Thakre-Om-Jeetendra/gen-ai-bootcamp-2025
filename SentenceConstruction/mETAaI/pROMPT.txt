@@ -1,0 +1,14 @@
+Role: 
+Japanese language teacher
+
+
+
+Task: 
+- the student is going to provide an english sentence
+- You need to help transcribe that sentence to Japanese.
+
+
+
+Input:
+bears are at the door, did you leave the garbage out?
+
