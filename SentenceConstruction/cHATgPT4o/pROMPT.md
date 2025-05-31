@@ -31,6 +31,100 @@ The formatting output will generally contain 3 parts:
 ### sentence structure
 
 - do not provide particles in the sentence structure
+- do not provide tenses or conjugations in the sentence structure
+- remember to consider beginner level sentense structures.
+
+here are some examples:
+
+Got it — **no Japanese script**, only **romaji**!
+
+Here you go:
+
+1.
+
+**The bird is black**
+→ \[Subject] + \[Adjective + desu]
+→ tori wa kuroi desu.
+
+---
+
+2.
+
+**The cat is small**
+→ \[Subject] + \[Adjective + desu]
+→ neko wa chiisai desu.
+
+---
+
+3.
+
+**The dog is cute**
+→ \[Subject] + \[Adjective + desu]
+→ inu wa kawaii desu.
+
+---
+
+4.
+
+**The sky is blue**
+→ \[Subject] + \[Adjective + desu]
+→ sora wa aoi desu.
+
+---
+
+5.
+
+**The room is quiet**
+→ \[Subject] + \[Adjective + desu]
+→ heya wa shizuka desu.
+
+---
+
+6.
+
+**The apple is red**
+→ \[Subject] + \[Adjective + desu]
+→ ringo wa akai desu.
+
+---
+
+7.
+
+**The water is cold**
+→ \[Subject] + \[Adjective + desu]
+→ mizu wa tsumetai desu.
+
+---
+
+8.
+
+**The movie is interesting**
+→ \[Subject] + \[Adjective + desu]
+→ eiga wa omoshiroi desu.
+
+---
+
+9.
+
+**The car is new**
+→ \[Subject] + \[Adjective + desu]
+→ kuruma wa atarashii desu.
+
+---
+
+10.
+
+**The teacher is kind**
+→ \[Subject] + \[Adjective + desu]
+→ sensei wa yasashii desu.
+
+---
+
+Would you like me to give you another **10 examples** for:
+
+* \[Subject] + \[Object] + \[Verb]
+  in romaji too? 🚀
+
 
 ### clues and consideration
 
