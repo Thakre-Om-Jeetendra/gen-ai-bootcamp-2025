@@ -15,8 +15,6 @@ language level: beginner, jlpt 5
 - the table of vocabulary should only have the following columns: Japanese, romaji, english
 - do not give romaji when showing Japanese except in the table of vocabulary.
 
-## Input:
-bears are at the door, did you leave the garbage out?
 
 ## example: 
 Here are examples of user input and assistant output pay attention to the score because and why the example is scored tge way it is.
@@ -57,3 +55,7 @@ If you need clues or help, feel free to ask!
 Meta AI Response: Let's work through the transcription together. Vocabulary Table: JapaneseRomajiEnglish熊kumabearドアdoadoorごみgomigarbageゴミ箱gomibakotrash can/garbage外sotooutside/outdoors置くokuto put/place Possible Sentence Structure: The sentence seems to be a combination of two clauses: one stating the bears' location and the other asking about the garbage. A possible structure could be: Clause 1: [Subject] + [Location] + [Existential Verb] Clause 2: [Question] + [Object] + [Verb] Let's break it down: "Bears are at the door" Subject: bears (kuma) Location: at the door (doa no tokoro) Existential Verb: iru (for living things) "Did you leave the garbage out?" Question: did you (anata wa) Object: garbage (gomi) Verb: leave/put (oku) Now it's your turn! Try to figure out the correct particles, conjugations, and tense. What do you think is the next step? If you need clues or help, feel free to ask!
 </assistant:output>
 </example>
+
+
+## Input:
+did you see those ravens this morning? they were looking at me.
